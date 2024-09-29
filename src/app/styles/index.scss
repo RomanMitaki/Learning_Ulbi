@@ -1,6 +1,6 @@
-@import "variables/global";
-@import "themes/light";
-@import "themes/dark";
+@import "../styles/variables/global";
+@import "../styles/themes/dark";
+@import "../styles/themes/light";
 @import "reset";
 
 .app {
